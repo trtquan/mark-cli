@@ -1,0 +1,30 @@
+{
+    "name": "mark-cli",
+    "version": "1.0.0",
+    "description": "cli of install react-n-page",
+    "main": "./bin/index.js",
+    "bin": {
+      "mark": "./bin/index.js"
+    },
+    "repository": {
+      "type": "git"
+    },
+    "keywords": [
+      "react",
+      "webpack",
+      "multi",
+      "javascript",
+      "frontend",
+      "js",
+      "es6",
+      "bin",
+      "cli",
+      "quantran"
+    ],
+    "author": "quantran",
+    "license": "MIT",
+    "dependencies": {
+      "chalk": "^2.4.1",
+      "nodegit": "^0.23.0"
+    }
+  }
